@@ -15,6 +15,7 @@ i like c++
 [![xor-shift's GitHub stats](https://github-readme-stats.vercel.app/api?username=xor-shift&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 this thing overstates ranks smh  
 A+ is apperantly top %60 which should F imo  
+P.S. most of the stuff I do are either not uploaded to github at all or if uploaded, in provate repos  
 
 ## Changelog for big-ish changes
 03/11/2020: privated all old repos  
