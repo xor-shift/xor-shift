@@ -1,16 +1,14 @@
-### Hi there 👋
+hello, i am me
 
-<!--
-**xor-shift/xor-shift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages:
+- C++
+- Rust
+- Go
+- I am fine with anything else
+- Aside from those fancy functional proof languages as I lack the brains necessary for them.
+- Turkish (Native)
+- English
+- German (Learning)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Working on:
+- [a real-time path tracer](https://github.com/xor-shift/tracer.rs) (lots of unpushed changes rn)
